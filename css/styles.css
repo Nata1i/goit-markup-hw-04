@@ -414,7 +414,6 @@ h1, h2, h3, h4, h5, h6, p {
   align-items: center;
   justify-content: center;
 
-  padding: 16px 32px;
   border: 1px solid var(--first-icon-color);
   border-radius: 4px;
   
